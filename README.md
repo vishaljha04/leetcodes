@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/vishaljha04/leetcodes/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishaljha04/leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 ## Math
@@ -40,5 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
