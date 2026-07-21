@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vishaljha04/leetcodes/tree/master/0739-daily-temperatures) |
+| [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishaljha04/leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Stack
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/vishaljha04/leetcodes/tree/master/0224-basic-calculator) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishaljha04/leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishaljha04/leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 <!---LeetCode Topics End-->
