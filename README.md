@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vishaljha04/leetcodes/tree/master/0739-daily-temperatures) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishaljha04/leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/vishaljha04/leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/vishaljha04/leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
