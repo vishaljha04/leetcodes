@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/vishaljha04/leetcodes/tree/master/1496-path-crossing) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishaljha04/leetcodes/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/vishaljha04/leetcodes/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/vishaljha04/leetcodes/tree/master/1496-path-crossing) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/vishaljha04/leetcodes/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/vishaljha04/leetcodes/tree/master/2706-buy-two-chocolates) |
+## Counting
+|  |
+| ------- |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/vishaljha04/leetcodes/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 <!---LeetCode Topics End-->
