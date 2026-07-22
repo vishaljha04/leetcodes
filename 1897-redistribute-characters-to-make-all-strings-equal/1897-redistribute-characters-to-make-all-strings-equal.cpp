@@ -1,17 +1,16 @@
 class Solution {
 public:
     bool makeEqual(vector<string>& words) {
-        unordered_map<char, int> mp;
+        int arr[26] = {0};
         int n = words.size();
-
         for (string &word : words) {
             for (char ch : word) {
-                mp[ch]++;
+                arr[ch-'a']++;
             }
         }
 
-        for (auto &it : mp) {
-            if (it.second % n != 0) {
+        for (int i = 0; i < 26; i++) {
+            if (arr[i] % n != 0) {
                 return false;
             }
         }
