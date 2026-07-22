@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishaljha04/leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/vishaljha04/leetcodes/tree/master/1496-path-crossing) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishaljha04/leetcodes/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Math
 |  |
 | ------- |
