@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/vishaljha04/leetcodes/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishaljha04/leetcodes/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/vishaljha04/leetcodes/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2864-maximum-odd-binary-number](https://github.com/vishaljha04/leetcodes/tree/master/2864-maximum-odd-binary-number) |
 ## Math
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/vishaljha04/leetcodes/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/vishaljha04/leetcodes/tree/master/0231-power-of-two) |
+| [2864-maximum-odd-binary-number](https://github.com/vishaljha04/leetcodes/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [2706-buy-two-chocolates](https://github.com/vishaljha04/leetcodes/tree/master/2706-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/vishaljha04/leetcodes/tree/master/2864-maximum-odd-binary-number) |
 ## Counting
 |  |
 | ------- |
