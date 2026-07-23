@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/vishaljha04/leetcodes/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishaljha04/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishaljha04/leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/vishaljha04/leetcodes/tree/master/1496-path-crossing) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishaljha04/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/vishaljha04/leetcodes/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/vishaljha04/leetcodes/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -68,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vishaljha04/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/vishaljha04/leetcodes/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vishaljha04/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
