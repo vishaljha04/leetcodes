@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/vishaljha04/leetcodes/tree/master/0739-daily-temperatures) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishaljha04/leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -56,14 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/vishaljha04/leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2706-buy-two-chocolates](https://github.com/vishaljha04/leetcodes/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [2706-buy-two-chocolates](https://github.com/vishaljha04/leetcodes/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/vishaljha04/leetcodes/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
