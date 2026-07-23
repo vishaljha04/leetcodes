@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/vishaljha04/leetcodes/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/vishaljha04/leetcodes/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/vishaljha04/leetcodes/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/vishaljha04/leetcodes/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishaljha04/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vishaljha04/leetcodes/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
