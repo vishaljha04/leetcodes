@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/vishaljha04/leetcodes/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/vishaljha04/leetcodes/tree/master/0231-power-of-two) |
 ## Matrix
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/vishaljha04/leetcodes/tree/master/2540-minimum-common-value) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
