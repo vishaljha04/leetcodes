@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/vishaljha04/leetcodes/tree/master/2540-minimum-common-value) |
 ## Queue
 |  |
@@ -106,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
