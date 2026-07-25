@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vishaljha04/leetcodes/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/vishaljha04/leetcodes/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/vishaljha04/leetcodes/tree/master/0231-power-of-two) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vishaljha04/leetcodes/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vishaljha04/leetcodes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0876-middle-of-the-linked-list) |
