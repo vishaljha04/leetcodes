@@ -116,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vishaljha04/leetcodes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0876-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
