@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishaljha04/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vishaljha04/leetcodes/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
@@ -131,5 +134,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
