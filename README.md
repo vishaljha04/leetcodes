@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishaljha04/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/vishaljha04/leetcodes/tree/master/0739-daily-temperatures) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishaljha04/leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/vishaljha04/leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishaljha04/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/vishaljha04/leetcodes/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/vishaljha04/leetcodes/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -124,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishaljha04/leetcodes/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishaljha04/leetcodes/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
 ## Divide and Conquer
 |  |
 | ------- |
