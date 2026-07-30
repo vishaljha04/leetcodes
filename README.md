@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vishaljha04/leetcodes/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishaljha04/leetcodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishaljha04/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishaljha04/leetcodes/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/vishaljha04/leetcodes/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishaljha04/leetcodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishaljha04/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vishaljha04/leetcodes/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishaljha04/leetcodes/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishaljha04/leetcodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishaljha04/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vishaljha04/leetcodes/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vishaljha04/leetcodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
