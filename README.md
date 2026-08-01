@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishaljha04/leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/vishaljha04/leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vishaljha04/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
 | [2540-minimum-common-value](https://github.com/vishaljha04/leetcodes/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/vishaljha04/leetcodes/tree/master/2706-buy-two-chocolates) |
 ## Stack
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishaljha04/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vishaljha04/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishaljha04/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/vishaljha04/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
