@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vishaljha04/leetcodes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/vishaljha04/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishaljha04/leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishaljha04/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/vishaljha04/leetcodes/tree/master/0739-daily-temperatures) |
