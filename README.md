@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vishaljha04/leetcodes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vishaljha04/leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishaljha04/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/vishaljha04/leetcodes/tree/master/0739-daily-temperatures) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vishaljha04/leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/vishaljha04/leetcodes/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
