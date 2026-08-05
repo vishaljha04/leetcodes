@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vishaljha04/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishaljha04/leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vishaljha04/leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishaljha04/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/vishaljha04/leetcodes/tree/master/0739-daily-temperatures) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vishaljha04/leetcodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishaljha04/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/vishaljha04/leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishaljha04/leetcodes/tree/master/1110-delete-nodes-and-return-forest) |
 | [1436-destination-city](https://github.com/vishaljha04/leetcodes/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/vishaljha04/leetcodes/tree/master/1496-path-crossing) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vishaljha04/leetcodes/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vishaljha04/leetcodes/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
