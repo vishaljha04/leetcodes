@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishaljha04/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishaljha04/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/vishaljha04/leetcodes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vishaljha04/leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vishaljha04/leetcodes/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishaljha04/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vishaljha04/leetcodes/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/vishaljha04/leetcodes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vishaljha04/leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vishaljha04/leetcodes/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/vishaljha04/leetcodes/tree/master/0876-middle-of-the-linked-list) |
@@ -120,9 +122,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vishaljha04/leetcodes/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/vishaljha04/leetcodes/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/vishaljha04/leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishaljha04/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishaljha04/leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/vishaljha04/leetcodes/tree/master/2540-minimum-common-value) |
@@ -192,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishaljha04/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vishaljha04/leetcodes/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vishaljha04/leetcodes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
